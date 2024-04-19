@@ -12,11 +12,6 @@
 			]
 		},
 		{
-			"Name": "ExtendBlueprintNode",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/236a37aee6064f9183b7d77343d22f38"
-		},
-		{
 			"Name": "GeometryScripting",
 			"Enabled": true
 		},
@@ -126,11 +121,6 @@
 		{
 			"Name": "MobileLauncherProfileWizard",
 			"Enabled": false
-		},
-		{
-			"Name": "BlueprintScreenshotTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/42fe1c4fc1c149c39ddeee891d75b50c"
 		},
 		{
 			"Name": "Linter",
